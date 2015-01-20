@@ -1,0 +1,27 @@
+/*
+Original code by RyoNAKAE
+http://memo.brdr.jp/post/105274836261/css
+*/
+
+#key-area {
+  width: 960px !important;
+}
+
+#key-area embed {
+  width: 960px !important;
+  height: 620px !important;
+}
+
+#ttl-info {
+  width: 960px !important;
+  height: 403px !important;
+}
+
+#ttl-info .ttlinfo-menu {
+  width: 938px !important;
+  height: 15px !important;
+}
+
+#ttl-info .ttlinfo-menu ul {
+  display: inline-block !important;
+}
